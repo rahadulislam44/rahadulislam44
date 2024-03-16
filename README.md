@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @rahadul
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I am Rahad!
 
-<!---
-rahadulislam44/rahadulislam44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A data science enthusiast, currently managing treasury analytics of ACI Group comprising 15 subsidiaries, worth of USD 1,500 million and empowering treasury management to make data-driven decisions. Experienced in analysing financial data, building financial models and visualizing insights with Power BI and Excel.
+
